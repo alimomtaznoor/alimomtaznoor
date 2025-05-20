@@ -8,7 +8,8 @@ On the backend, I have hands-on experience building robust APIs and services usi
 - **Styling:** CSS, Tailwindcss/Sass/Scss/ Animations, GSAP/Framer-motion,
 - **Backend:** Node.js, REST APIs, MongoDB, graphQL, firebase, supabase, prisma, express
   
-- ✍️ Writing at: https:fourzerofouriq.vercel.app
+- ✍️ Writing at: [![My Blog](https://img.shields.io/badge/My%20Blog-Read-blue?style=for-the-badge&logo=hashnode)](https://fourzerofouriq.vercel.app)
+
 
 
 ---
