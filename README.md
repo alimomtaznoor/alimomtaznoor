@@ -7,7 +7,7 @@ On the backend, I have hands-on experience building robust APIs and services usi
 - **Frontend:** React, Next.js, JavaScript/TypeScript, Three.js,  React-three-fiber/React-three/drei
 - **Styling:** CSS, Tailwindcss/Sass/Scss/ Animations, GSAP/Framer-motion,
 - **Backend:** Node.js, REST APIs, MongoDB, graphQL, firebase, supabase, prisma, express
-- 
+  
 - ✍️ Writing at: https:fourzerofouriq.vercel.app
 
 
@@ -34,7 +34,7 @@ If you’ve found my content helpful, consider supporting me:
 
 ## 📬 Connect with Me
 
-[![Twitter](https://img.shields.io/badge/Twitter-@yourhandle-blue?style=for-the-badge&logo=twitter)](https://x.com/alimomtaznoor)  
+[![X](https://img.shields.io/badge/X-@alimomtaznoor-blue?style=for-the-badge&logo=x)](https://x.com/alimomtaznoor)  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/alimomtaznoor)  
 [![Blog](https://img.shields.io/badge/Blog-Read%20Articles-orange?style=for-the-badge&logo=hashnode)](https://fourzerofrouiq.vercel.app)
 [![Portfolio](https://img.shields.io/badge/Blog-Read%20Articles-orange?style=for-the-badge&logo=hashnode)](https://alimomtaznoor.vercel.app)
