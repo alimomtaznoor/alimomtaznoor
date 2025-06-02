@@ -21,7 +21,7 @@ On the backend, I have hands-on experience building robust APIs and services usi
 📘 **[Developer Glossary (PDF)](https://github.com/alimomtaznoor/devterms/blob/main/Essential%20dev%20terms%20for%20devs.pdf)**  
 
 
-> ✨ More coming soon. Star this repo to stay in the loop!
+> ✨ More coming soon. 
 
 ---
 
