@@ -23,16 +23,7 @@ On the backend, I have hands-on experience building robust APIs and services usi
 
 > ✨ More coming soon. 
 
----
 
-## 💖 Support My Work
-
-If you’ve found my content helpful, consider supporting me:
-
-[![Buy Me a Coffee](https://img.shields.io/badge/Buy%20me%20a%20coffee-%E2%98%95-orange?style=for-the-badge)](https://buymeacoffee.com/alimomtaznoor)  
-[![GitHub Sponsors](https://img.shields.io/badge/Sponsor%20on-GitHub-%23fb6f92?style=for-the-badge&logo=github)](https://github.com/sponsors/alimomtaznoor)
-
----
 
 ## 📬 Connect with Me
 
