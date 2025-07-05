@@ -28,7 +28,6 @@ On the backend, I have hands-on experience building robust APIs and services usi
 ## 📬 Connect with Me
 
 [![X](https://img.shields.io/badge/@alimomtaznoor-blue?style=for-the-badge&logo=x)](https://x.com/alimomtaznoor)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/alimomtaznoor)  
 [![Blog](https://img.shields.io/badge/Blog-Read%20Articles-orange?style=for-the-badge&logo=hashnode)](https://alidevblog.vercel.app)
 [![Portfolio](https://img.shields.io/badge/Website-Visit-blue?style=for-the-badge&logo=vercel)](https://alimomtaznoor.vercel.app)
 
