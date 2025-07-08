@@ -5,7 +5,7 @@ On the backend, I have hands-on experience building robust APIs and services usi
 
 🛠️ **What I Work With:**
 - **Frontend:** React, Next.js, JavaScript/TypeScript, Three.js,  React-three-fiber/React-three/drei
-- **Styling:** CSS, Tailwindcss/Sass/Scss/ Animations, GSAP/Framer-motion,
+- **Styling:** CSS, Tailwindcss/Sass/Scss, GSAP/Framer-motion,
 - **Backend:** Node.js, REST APIs, MongoDB, graphQL, firebase, supabase, prisma, express
   
 - ✍️ Writing at: [My blog](https://alidevblog.vercel.app)
