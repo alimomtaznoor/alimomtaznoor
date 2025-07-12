@@ -34,4 +34,3 @@ On the backend, I have hands-on experience building robust APIs and services usi
 
 ---
 
-Thanks for stopping by! 
