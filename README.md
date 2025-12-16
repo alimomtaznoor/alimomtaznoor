@@ -1,28 +1,21 @@
-# 👋 hi i am Ali
+👋 Hi, I’m Ali
 
-I'm a developer skilled in **React**, **Next.js**, **TypeScript** and **Three.js**, with a strong eye for **CSS** and smooth **animations** 
-On the backend, I have hands-on experience building robust APIs and services using **Node.js** and more...
+I’m a Software Developer with hands-on experience building and maintaining full-stack web applications. I work across frontend and backend, focusing on clean architecture, reliable APIs, database design, and performance. I also enjoy automating workflows and improving developer and product efficiency.
 
-🛠️ **What I Work With:**
-- **Frontend:** React, Next.js, JavaScript/TypeScript, Three.js,  React-three-fiber/React-three/drei
-- **Styling:** CSS, Tailwindcss/Sass/Scss, GSAP/Framer-motion,shadCN
-- **Backend:** Node.js, REST APIs, MongoDB, graphQL, firebase, supabase, prisma, express
-  
-- ✍️ Writing at: [My blog](https://alidevblog.vercel.app)
+🛠️ What I Work With:
 
 
+Frontend: React, Next.js, JavaScript, TypeScript, 
 
+Styling & UI: CSS, Tailwind CSS, Sass/SCSS, GSAP, Framer Motion, shadcn/ui
 
----
+Backend: Node.js, Express, REST APIs, GraphQL
 
-## 📚 Free Developer Resources
+Databases & Services: MongoDB, Prisma, Firebase, Supabase
 
+Automation & Tooling: API integrations, background jobs, scripting, CI/CD workflows
 
-📘 **[Developer Glossary (PDF)](https://github.com/alimomtaznoor/devterms/blob/main/Essential%20dev%20terms%20for%20devs.pdf)**  
-
-
-
-
+✍️ Writing at: [My blog](https://alidevblog.vercel.app)
 
 
 ## 📬 Connect with Me
