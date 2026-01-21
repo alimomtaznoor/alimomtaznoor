@@ -1,28 +1,23 @@
 👋 Hi, I’m Ali
 
-I’m a Software Developer with hands-on experience building and maintaining full-stack web applications. I work across frontend and backend, focusing on clean architecture, reliable APIs, database design, and performance. I also enjoy automating workflows and improving developer and product efficiency.
+Software Developer with over 3 years of experience building full-stack systems, including backend APIs, database optimization,
+and automation. Experienced in building secure, maintainable applications and improving system performance through clean code
+and thoughtful architecture.
 
 🛠️ What I Work With:
 
 
-Frontend: React, Next.js, JavaScript, TypeScript, 
-
-Styling & UI: CSS, Tailwind CSS, Sass/SCSS, GSAP, Framer Motion, shadcn/ui
-
-Backend: Node.js, Express, REST APIs, GraphQL
-
-Databases & Services: MongoDB, Prisma, Firebase, Supabase
-
-Automation & Tooling: API integrations, background jobs, scripting, CI/CD workflows
-
-✍️ Writing at: [My blog](https://alidevblog.vercel.app)
+Languages: JavaScript, TypeScript, Python,
+Frameworks and Libraries:React, Next JS, Node JS, Django
+Database: MongoDB, MySQL, Firebase, Supabase, Better-Auth, Next-Auth, Prisma
+Styling and UI tools: Tailwind CSS, GSAP, Framer-motion, SCSS, SASS, Material UI,
+Developer Tools: Git, Github, Postman, Sentry, Windsurf, VSCode, Figma, Netlify, Vercel, Claude Code, Jira, Bitbucket
+Other Skills: Testing (Jest, React Testing, Playwright, Vitest, Static type checks, Eslint),  CI/CD Integration, Linting, UI/UX/DX, Performance
+& Optimization, Accessibility(a11y),  Internationalization (i18n) & Localization (l10n), WebGL/3D ,AI automation, n8
 
 
-## 📬 Connect with Me
 
-[![X](https://img.shields.io/badge/@alimomtaznoor-blue?style=for-the-badge&logo=x)](https://x.com/alimomtaznoor)  
-[![Blog](https://img.shields.io/badge/Blog-Read%20Articles-orange?style=for-the-badge&logo=hashnode)](https://alidevblog.vercel.app)
-[![Portfolio](https://img.shields.io/badge/Website-Visit-blue?style=for-the-badge&logo=vercel)](https://alimomtaznoor.vercel.app)
+
 
 
 
