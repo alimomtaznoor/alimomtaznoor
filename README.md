@@ -24,7 +24,7 @@
 
 I'm a **Software Developer with 3+ years of experience** building full-stack applications, backend services, APIs, automation workflows, and production-ready web systems.
 
-My work spans **React, Next.js, TypeScript, Node.js, Python, FastAPI, REST APIs, databases, AWS, CI/CD, and automated testing**.
+My work spans **React, Next.js, TypeScript, Node.js, Python, FastAPI, REST APIs, databases, AWS, CI/CD, automated testing, LLM APIs**.
 
 I enjoy working across the stack — from designing a clean frontend and API contract to handling backend logic, data, deployment, testing, and production issues.
 
@@ -85,6 +85,7 @@ I'm especially interested in building software where **good engineering, automat
 
 ### 🤖 AI & Automation
 - **Generative AI**
+- **LLM-based APIs**
 - **AI-assisted Development**
 - **Claude Code**
 - AI Workflow Automation
